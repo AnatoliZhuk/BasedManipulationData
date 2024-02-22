@@ -1,0 +1,2 @@
+# BasedManipulationData
+Операции с датасетом
